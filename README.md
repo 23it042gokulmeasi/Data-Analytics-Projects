@@ -1,4 +1,4 @@
- Bollywood Movie Data Analysis using Python
+Bollywood Movie Data Analysis using Python
 
 1. Project Overview:
 The Hollywood Movie Data Analysis project focuses on analyzing various aspects of Hollywood movies to derive insights into trends, audience preferences, and box office performance. Utilizing Python's powerful data manipulation and visualization libraries—including Pandas, NumPy, Matplotlib, Seaborn, and Plotly—the project explores a dataset that encompasses movie titles, genres, budgets, box office collections, and critical reception metrics. The primary goal is to inform stakeholders about market dynamics and enhance decision-making processes in film production and marketing.
